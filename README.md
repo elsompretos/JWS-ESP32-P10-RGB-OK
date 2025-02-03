@@ -24,7 +24,7 @@
 - Kalender Masehi ( plus hari pasaran )
 - Jam Arah
 - Info (nama masjid, 3 info, pesan sebelum sholat)
-- Tartil
+- Auto Tartil
 - Pengaturan warna
 - Countdown Iqomah
 
