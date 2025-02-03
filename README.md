@@ -1,4 +1,4 @@
-# JWS-ESP32-P10-RGB-OK ( 1 Panel )
+# JWS-ESP32-P10-RGB-OK
 ## _JWS dengan kontrol menggunakan Android (APK) melalui wifi_ 
 
 ## Hardware
@@ -62,3 +62,6 @@ Plugin yang digunakan antara lain :
 {"col_jam":"#ff0000","col_waktu":"#ffff00","col_info":"#00ffff","col_jam_adzan":"#00ff00","col_adzan":"#ff00ff","col_jam_iqomah":"#00ffff","col_iqomah":"#a600ff","col_shaf":"#0000ff"}
 
 ```
+### _Tampilan Aplikasi_
+
+![screenshot](image/mainmenu.JPG)
