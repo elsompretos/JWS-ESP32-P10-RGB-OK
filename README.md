@@ -64,4 +64,4 @@ Plugin yang digunakan antara lain :
 ```
 ### _Tampilan Aplikasi_
 
-![screenshot](image/mainmenu.JPG)
+![screenshot](image/mainmenu.JPG) ![screenshot](image/lokasi.JPG)
