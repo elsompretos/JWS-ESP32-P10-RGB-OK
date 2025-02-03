@@ -29,6 +29,7 @@
 - Countdown Iqomah
 
 ## File MP3
+Untuk file tartil, adzan, jam dapat di sownload di sini :
 https://drive.google.com/drive/folders/1F2UkO_4xSV6sIagpgKBgfbYkbccjVRhU?usp=drive_link
 
 ## Cordova
