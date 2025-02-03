@@ -30,11 +30,13 @@
 
 ## File MP3
 Untuk file tartil, adzan, jam dapat di sownload di sini :
+
 https://drive.google.com/drive/folders/1F2UkO_4xSV6sIagpgKBgfbYkbccjVRhU?usp=drive_link
 
 ## Cordova
 
 Dalam membuat aplikasi APK menggunakan CORDOVA berbasis Javascript.
+
 Plugin yang digunakan antara lain :
 
 | Plugin | Sumber |
