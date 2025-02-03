@@ -7,7 +7,7 @@
 - DF Player Mini
 - Power supply
 - Speaker
-- PCB JWS ( banyak di pasaran )
+- PCB JWS ( banyak di pasaran contoh seperti dibawah ini)
 
   ![screenshot](image/42c0b40f96bbdb75ab206c955a2f79d5.jpg)
 
