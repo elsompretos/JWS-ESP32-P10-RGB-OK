@@ -22,6 +22,7 @@
 - Info (nama masjid, 3 info, pesan sebelum sholat)
 - Tartil
 - Pengaturan warna
+- Countdown Iqomah
 
 
 ## Cordova
@@ -37,4 +38,6 @@ Plugin yang digunakan antara lain :
 | cordova-plugin-geolocation | github.com/apache/cordova-plugin-geolocation|
 | cordova-plugin-splashscreen | https://github.com/apache/cordova-plugin-splashscreen |
 
-
+- cordova verion 12.0.0 (cordova-lib@12.0.2)
+- openjdk version "17.0.6" 2023-01-17
+- gradle verion 7.6 
