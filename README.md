@@ -9,6 +9,8 @@
 - Speaker
 - PCB JWS
 
+  ![screenshot](image/42c0b40f96bbdb75ab206c955a2f79d5.JPG)
+
 
 ## Features
 - Jadwal sholat
