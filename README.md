@@ -14,7 +14,7 @@
 
 ## Features
 - Jadwal sholat
-- Kontrol APK (Menggunakan Cordova)
+- Kontrol APK standar wifi : 192.168.4.1 (Menggunakan Cordova)
 - Pengaturan lokasi ( plus android geolocation )
 - Adzan
 - Suara jam ( setiap jam dan setiap setengah jam )
