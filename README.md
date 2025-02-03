@@ -11,7 +11,9 @@
 
   ![screenshot](image/42c0b40f96bbdb75ab206c955a2f79d5.jpg)
 
-
+## Software
+- Arduino IDE 1.8.19
+  
 ## Features
 - Jadwal sholat
 - Kontrol APK standar wifi : 192.168.4.1 (Menggunakan Cordova)
