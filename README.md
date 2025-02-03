@@ -1,4 +1,4 @@
-# JWS-ESP32-P10-RGB-OK
+# JWS-ESP32-P10-RGB-OK ( 1 Panel )
 ## _JWS dengan kontrol menggunakan Android (APK) melalui wifi_ 
 
 ## Hardware
