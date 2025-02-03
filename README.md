@@ -1,5 +1,6 @@
 # JWS-ESP32-P10-RGB-OK
 ## _JWS dengan kontrol menggunakan Android (APK) melalui wifi_ 
+JWS ini menggunakan JSON file sebagai media penyimpanan data. 
 
 ## Hardware
 - P10 RGB Display ( HUB75 )
