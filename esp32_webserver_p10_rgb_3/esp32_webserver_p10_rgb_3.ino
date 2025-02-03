@@ -32,6 +32,10 @@ DFPlayer_Mini_Mp3
 
 ==================================
 
+dibuat oleh Yopi Ardinal
+ilmunya diambil dari berbagai sumber
+( maaf ga bisa disebut satu persatu karena udah lupa )
+
 */
 
 /* Library */
