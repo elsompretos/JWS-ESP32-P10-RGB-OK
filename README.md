@@ -41,10 +41,10 @@ Plugin yang digunakan antara lain :
 
 | Plugin | Sumber |
 | ------ | ------ |
-| cordova-plugin-advanced-http | github.com/silkimen/cordova-plugin-advanced-http|
-| cordova-plugin-enable-cleartext-traffic | github.com/RahulCV/cordova-plugin-enable-cleartext-traffic |
+| cordova-plugin-advanced-http | https://github.com/silkimen/cordova-plugin-advanced-http|
+| cordova-plugin-enable-cleartext-traffic | https://github.com/RahulCV/cordova-plugin-enable-cleartext-traffic |
 | cordova-plugin-file | https://github.com/apache/cordova-plugin-file |
-| cordova-plugin-geolocation | github.com/apache/cordova-plugin-geolocation|
+| cordova-plugin-geolocation | https://github.com/apache/cordova-plugin-geolocation|
 | cordova-plugin-splashscreen | https://github.com/apache/cordova-plugin-splashscreen |
 
 ### _Cordova Requirment_
