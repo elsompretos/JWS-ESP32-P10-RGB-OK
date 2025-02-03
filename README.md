@@ -48,7 +48,7 @@ Plugin yang digunakan antara lain :
 | cordova-plugin-splashscreen | https://github.com/apache/cordova-plugin-splashscreen |
 
 ### _Cordova Requirment_
-- cordova verion 12.0.0 (cordova-lib@12.0.2)
+- cordova version 12.0.0 (cordova-lib@12.0.2)
 - openjdk version "17.0.6" 2023-01-17
 - gradle verion 7.6 
 
