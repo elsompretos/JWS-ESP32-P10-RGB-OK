@@ -2,7 +2,7 @@
 ## _JWS dengan kontrol menggunakan Android (APK) melalui wifi_ 
 
 ## Hardware
-- P10 RGB Display
+- P10 RGB Display ( HUB75 )
 - ESP32
 - DF Player Mini
 - Power supply
