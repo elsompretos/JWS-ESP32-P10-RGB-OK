@@ -17,7 +17,7 @@
 {"col_jam":"#ff0000","col_waktu":"#ffff00","col_info":"#00ffff","col_jam_adzan":"#00ff00","col_adzan":"#ff00ff","col_jam_iqomah":"#00ffff","col_iqomah":"#a600ff","col_shaf":"#0000ff"}
 
 ==================================
-esp32 versi 3.1.2 
+esp32 versi 1.0.6 & 3.1.2 
 Board : DOIT ESP32 DEVKIT V1
 
 Library :
